@@ -1,8 +1,8 @@
 # 📧 Email Phishing Detection (Machine Learning Project)
 
-This project is a **machine learning model** that detects whether an email is **phishing** or **safe** based on various **numeric features** extracted from the email.
+This project is a **machine learning model** that detects whether an email is **phishing** or **safe** based on various **numeric features** extracted from the email
 
-It uses **Logistic Regression** and **Gaussian Naive Bayes** for classification.
+It uses **Logistic Regression** and **Gaussian Naive Bayes** for classification
 
 ---
 
